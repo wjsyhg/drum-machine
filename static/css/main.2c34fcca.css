@@ -1,0 +1,2 @@
+body{background-color:gray}.App{align-items:center;display:flex;height:100vh;justify-content:center}#drum-machine{background-color:#b3b3b3;display:flex;flex-direction:column;height:50vh;outline:5px solid orange;padding:50px;width:30vw}#display{align-items:center;display:flex;flex:1 1;justify-content:center}#drum-pad-container{grid-gap:10px;display:grid;flex:2 1;gap:10px;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr)}.drum-pad{align-items:center;background-color:gray;display:flex;justify-content:center}
+/*# sourceMappingURL=main.2c34fcca.css.map*/
